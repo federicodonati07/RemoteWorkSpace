@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Centoeuro"
+      },
+      {
+        "value": "CUSTOM:Centoeuro"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Centoeuro"
+      },
+      {
+        "value": "CUSTOM:Centoeuro"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Centoeuro"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cinquecentoeuro"
+    },
+    "name": "ce_to_de",
+    "namespace": "mod"
+  }
+}

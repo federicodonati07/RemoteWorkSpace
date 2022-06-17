@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "vainalla:blocks/cannabiscropstage0",
+    "particle": "vainalla:blocks/cannabiscropstage0"
+  }
+}

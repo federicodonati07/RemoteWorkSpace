@@ -1,0 +1,625 @@
+{
+  "mod_elements": [
+    {
+      "name": "PortafoglioGUI",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "portafoglio_gui"
+    },
+    {
+      "name": "VainallaElements",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vainalla_elements"
+    },
+    {
+      "name": "PortafoglioRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "portafoglio_recipe"
+    },
+    {
+      "name": "Unocentesimo",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unocentesimo"
+    },
+    {
+      "name": "Duecentesimi",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "duecentesimi"
+    },
+    {
+      "name": "Cinquecentesimi",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cinquecentesimi"
+    },
+    {
+      "name": "Unoeuro",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unoeuro"
+    },
+    {
+      "name": "Dueeuro",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dueeuro"
+    },
+    {
+      "name": "Cinqueeuro",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cinqueeuro"
+    },
+    {
+      "name": "Diecieuro",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diecieuro"
+    },
+    {
+      "name": "Ventieuro",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ventieuro"
+    },
+    {
+      "name": "Cinquantacentesimi",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cinquantacentesimi"
+    },
+    {
+      "name": "Cinquantaeuro",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cinquantaeuro"
+    },
+    {
+      "name": "Centoeuro",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "centoeuro"
+    },
+    {
+      "name": "Duecentoeuro",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "duecentoeuro"
+    },
+    {
+      "name": "Cinquecentoeuro",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cinquecentoeuro"
+    },
+    {
+      "name": "IcTOIIc",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ic_toi_ic"
+    },
+    {
+      "name": "IIcTOIc",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_ic_to_ic"
+    },
+    {
+      "name": "IcTOVc",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ic_to_vc"
+    },
+    {
+      "name": "VcTOIc",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vc_to_ic"
+    },
+    {
+      "name": "Diceicentesimi",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diceicentesimi"
+    },
+    {
+      "name": "Venticentesimi",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "venticentesimi"
+    },
+    {
+      "name": "VcTOXc",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vc_to_xc"
+    },
+    {
+      "name": "XcTOVc",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xc_to_vc"
+    },
+    {
+      "name": "XcTOXXc",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xc_tox_xc"
+    },
+    {
+      "name": "XXcTOXc",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "x_xc_to_xc"
+    },
+    {
+      "name": "LcTOXc",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lc_to_xc"
+    },
+    {
+      "name": "XcTOLc",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xc_to_lc"
+    },
+    {
+      "name": "LcTOIe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lc_to_ie"
+    },
+    {
+      "name": "IeTOLc",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ie_to_lc"
+    },
+    {
+      "name": "IeTOIIe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ie_toi_ie"
+    },
+    {
+      "name": "IIeTOIe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_ie_to_ie"
+    },
+    {
+      "name": "IeTOVe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ie_to_ve"
+    },
+    {
+      "name": "VeTOIe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ve_to_ie"
+    },
+    {
+      "name": "VeTOXe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ve_to_xe"
+    },
+    {
+      "name": "XeTOVe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xe_to_ve"
+    },
+    {
+      "name": "XeTOXXe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xe_tox_xe"
+    },
+    {
+      "name": "XXeTOXe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "x_xe_to_xe"
+    },
+    {
+      "name": "XeTOLe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xe_to_le"
+    },
+    {
+      "name": "LeTOXe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_to_xe"
+    },
+    {
+      "name": "LeTOCe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_to_ce"
+    },
+    {
+      "name": "CeTOLe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ce_to_le"
+    },
+    {
+      "name": "CeTOCCe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ce_toc_ce"
+    },
+    {
+      "name": "CCeTOCe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_ce_to_ce"
+    },
+    {
+      "name": "CeTODe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ce_to_de"
+    },
+    {
+      "name": "DeTOCe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "de_to_ce"
+    },
+    {
+      "name": "Portafoglio",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "portafoglio"
+    },
+    {
+      "name": "Banana",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "banana"
+    },
+    {
+      "name": "Banansplit",
+      "type": "rangeditem",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "banansplit"
+    },
+    {
+      "name": "Torella",
+      "type": "painting",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torella"
+    },
+    {
+      "name": "Coari",
+      "type": "painting",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coari"
+    },
+    {
+      "name": "Gianmarco",
+      "type": "painting",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gianmarco"
+    },
+    {
+      "name": "Sommo",
+      "type": "painting",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sommo"
+    },
+    {
+      "name": "Nicolo",
+      "type": "painting",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nicolo"
+    },
+    {
+      "name": "Sommo2",
+      "type": "painting",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sommo_2"
+    },
+    {
+      "name": "Donats",
+      "type": "painting",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "donats"
+    },
+    {
+      "name": "Radicchio",
+      "type": "painting",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radicchio"
+    },
+    {
+      "name": "Davide",
+      "type": "painting",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "davide"
+    },
+    {
+      "name": "Centoquattro",
+      "type": "painting",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "centoquattro"
+    },
+    {
+      "name": "Svastica",
+      "type": "painting",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "svastica"
+    },
+    {
+      "name": "FalceeMartello",
+      "type": "painting",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "falcee_martello"
+    },
+    {
+      "name": "StellaEbrea",
+      "type": "painting",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stella_ebrea"
+    },
+    {
+      "name": "CannabisStage0",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cannabis_stage_0"
+    },
+    {
+      "name": "SemiCannabisRightclickedOnBlock",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "semi_cannabis_rightclicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "direction",
+            "type": "direction"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CannabisStage0BlockAdded",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cannabis_stage_0_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.vainalla.diceicentesimi": "10 Centesimi",
+      "item.vainalla.ventieuro": "20 Euro",
+      "item.vainalla.diecieuro": "10 Euro",
+      "item.vainalla.portafoglio": "Portafoglio",
+      "item.vainalla.banansplit": "Banana Split",
+      "item.vainalla.cinqueeuro": "5 Euro",
+      "item.vainalla.cinquantaeuro": "50 Euro",
+      "item.vainalla.centoeuro": "100 Euro",
+      "item.vainalla.banana": "Banana",
+      "item.vainalla.duecentesimi": "2 Centesimi",
+      "item.vainalla.cinquecentoeuro": "500 Euro",
+      "item.vainalla.dueeuro": "2 Euro",
+      "block.vainalla.cannabis_stage_0": "Cannabis Stage 0",
+      "item.vainalla.duecentoeuro": "200 Euro",
+      "itemGroup.tabvainalla_elements": "Vainalla Elements",
+      "item.vainalla.unoeuro": "1 Euro",
+      "item.vainalla.venticentesimi": "20 Centesimi",
+      "item.vainalla.unocentesimo": "1 Centesimo",
+      "item.vainalla.cinquecentesimi": "5 Centesimi",
+      "item.vainalla.cinquantacentesimi": "50 Centesimi"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "vainalla",
+    "modName": "Vainalla",
+    "version": "1.0.0",
+    "author": "Federico, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.vainalla",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

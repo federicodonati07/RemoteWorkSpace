@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "vainalla:blocks/cannabis",
+    "particle": "vainalla:blocks/cannabis"
+  }
+}

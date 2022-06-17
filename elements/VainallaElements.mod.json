@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Vainalla Elements",
+    "icon": {
+      "value": "CUSTOM:Portafoglio"
+    },
+    "showSearch": false
+  }
+}

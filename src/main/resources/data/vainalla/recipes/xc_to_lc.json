@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "vainalla:diceicentesimi"
+    },
+    "1": {
+      "item": "vainalla:diceicentesimi"
+    },
+    "2": {
+      "item": "vainalla:diceicentesimi"
+    },
+    "3": {
+      "item": "vainalla:diceicentesimi"
+    },
+    "4": {
+      "item": "vainalla:diceicentesimi"
+    }
+  },
+  "result": {
+    "item": "vainalla:cinquantacentesimi",
+    "count": 1
+  }
+}
